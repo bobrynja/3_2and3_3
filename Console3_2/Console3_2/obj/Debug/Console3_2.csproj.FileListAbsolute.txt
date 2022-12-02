@@ -1,0 +1,12 @@
+E:\3 курс\прикладное\Console3_2\Console3_2\bin\Debug\Console3_2.exe.config
+E:\3 курс\прикладное\Console3_2\Console3_2\bin\Debug\Console3_2.exe
+E:\3 курс\прикладное\Console3_2\Console3_2\bin\Debug\Console3_2.pdb
+E:\3 курс\прикладное\Console3_2\Console3_2\obj\Debug\Console3_2.csprojResolveAssemblyReference.cache
+E:\3 курс\прикладное\Console3_2\Console3_2\obj\Debug\Console3_2.exe
+E:\3 курс\прикладное\Console3_2\Console3_2\obj\Debug\Console3_2.pdb
+C:\Users\stu-pksp120\Desktop\Console3_2\Console3_2\bin\Debug\Console3_2.exe.config
+C:\Users\stu-pksp120\Desktop\Console3_2\Console3_2\obj\Debug\Console3_2.exe
+C:\Users\stu-pksp120\Desktop\Console3_2\Console3_2\obj\Debug\Console3_2.pdb
+C:\Users\stu-pksp120\Desktop\Console3_2\Console3_2\obj\Debug\Console3_2.csprojResolveAssemblyReference.cache
+C:\Users\stu-pksp120\Desktop\Console3_2\Console3_2\bin\Debug\Console3_2.exe
+C:\Users\stu-pksp120\Desktop\Console3_2\Console3_2\bin\Debug\Console3_2.pdb
